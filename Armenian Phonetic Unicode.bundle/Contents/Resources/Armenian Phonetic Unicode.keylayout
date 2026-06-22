@@ -204,7 +204,7 @@
             <key code="41" output=":"/>
             <key code="42" output="Շ"/>
             <key code="43" output="ՙ"/>
-            <key code="44" output="?"/>
+            <key code="44" output="՞"/>
             <key code="45" output="Ն"/>
             <key code="46" output="Մ"/>
             <key code="47" output="՚"/>
@@ -315,7 +315,7 @@
             <key code="41" output=":"/>
             <key code="42" output="Շ"/>
             <key code="43" output="ՙ"/>
-            <key code="44" output="?"/>
+            <key code="44" output="՞"/>
             <key code="45" output="Ն"/>
             <key code="46" output="Մ"/>
             <key code="47" output="՚"/>
@@ -629,7 +629,7 @@
             <key code="41" output="‹"/>
             <key code="42" output="|"/>
             <key code="43" output="±"/>
-            <key code="44" output="?"/>
+            <key code="44" output="՞"/>
             <key code="46" output="÷"/>
             <key code="47" output="≠"/>
             <key code="48" output="&#x0009;"/>
